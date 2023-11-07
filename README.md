@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakthi Sasi Velar</h1>
 <h1 align="center"> I'm a passionate software developer interested in learning , exploring new things and solving problems</h1>
 <h3 align="left">Connect with me:</h3>
-<a style="text-decoration:none;" href="https://www.leetcode.com/sakthi_it20" target="blank"><img align="center" src="https://github.com/utkarsh192000/LeetcodeImages/blob/main/images%20(13).jpgg" alt="sakthi_it20" height="10" width="10" />
+<a style="text-decoration:none;" href="https://www.leetcode.com/sakthi_it20" target="blank"><img align="center" src="https://github.com/utkarsh192000/LeetcodeImages/blob/main/images%20(13).jpgg" height="10" width="10" />
 LEETCODE
 </a>
 </p>
