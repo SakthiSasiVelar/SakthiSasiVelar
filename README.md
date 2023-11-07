@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sakthi_it20" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png
-" alt="sakthi_it20" height="30" width="40" /></a>
+" alt="sakthi_it20" height="10" width="10" /></a>
 </p>
 
 # 💻 Tech Stack:
