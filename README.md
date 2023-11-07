@@ -2,7 +2,8 @@
 <h1 align="center"> I'm a passionate software developer interested in learning , exploring new things and solving problems</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/sakthi_it20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthi_it20" height="30" width="40" />Leetcode</a>
+<a href="https://www.leetcode.com/sakthi_it20" target="blank"><img align="center" src="![image](https://github.com/SakthiSasiVelar/SakthiSasiVelar/assets/90033325/bebd18a4-ee75-42e1-8fdc-bee0b9f85a3a)
+" alt="sakthi_it20" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
