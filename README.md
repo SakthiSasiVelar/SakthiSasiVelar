@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakthi Sasi Velar</h1>
-<h1 align="center"> I'm a passionate software developer interested in learining , exploring new things and solving problems</h1>
+<h1 align="center"> I'm a passionate software developer interested in learning , exploring new things and solving problems</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sakthi_it20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthi_it20" height="30" width="40" /></a>
