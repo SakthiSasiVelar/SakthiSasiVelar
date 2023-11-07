@@ -1,4 +1,4 @@
-![image](https://github.com/SakthiSasiVelar/SakthiSasiVelar/assets/90033325/8f7121a8-ac9b-4345-94f9-58fb6520dfec)<h1 align="center">Hi 👋, I'm Sakthi Sasi Velar</h1>
+<h1 align="center">Hi 👋, I'm Sakthi Sasi Velar</h1>
 <h1 align="center"> I'm a passionate software developer interested in learning , exploring new things and solving problems</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
